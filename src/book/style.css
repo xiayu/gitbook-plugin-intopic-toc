@@ -214,7 +214,7 @@ nav.intopic-toc .nav ul.level-5 > li.active > a:focus {
   }
 
   .page-inner {
-    width: unset !important;
+    width: 390px !important;
   }
 
   nav.intopic-toc {
